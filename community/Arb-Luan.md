@@ -17,8 +17,6 @@ Welcome to my GitHub! I’m a Computer Engineering student who loves diving into
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000?style=for-the-badge&logo=security)
-![Artificial Intelligence](https://img.shields.io/badge/AI-000?style=for-the-badge&logo=ai)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
